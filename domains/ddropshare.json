@@ -1,0 +1,11 @@
+{
+    "description": "Anonymous and ephemeral file sharing service",
+    "repo": "https://github.com/josh43451/Dropshare",
+    "owner": {
+        "username": "josh43451",
+        "email": "joshmat6955544@gmail.com"
+    },
+    "record": {
+        "CNAME": "dropshare-db4f.onrender.com"
+    }
+}
